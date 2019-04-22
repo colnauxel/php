@@ -1,0 +1,26 @@
+/* style login.php */
+#form-login{
+    width: 50%;
+    /* margin-top:10%; */
+}
+h1,h2,h3{
+    text-align: center;
+}
+.footer{
+    bottom: 0;
+   
+    background-color: #d0cdcd;
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+}
+.footer p{
+    margin: auto;
+    text-align: center;
+    margin-top:15px;
+}
+#logo{
+    background-size: cover;
+    width: 100%;
+}
